@@ -5,6 +5,7 @@ authors = ["cjihrig <cjihrig@gmail.com>"]
 edition = "2018"
 description = "Diagnostic reporting"
 license = "MIT"
+repository = "https://github.com/krustyrs/nick"
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
